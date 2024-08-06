@@ -1,3 +1,3 @@
-const mainMenu = require("./prompts")
+const mainMenu = require("./prompts");
 
 mainMenu();
